@@ -1,6 +1,6 @@
 # Capstone-1-Biotech-Stock-Prediction-Model
 
-This repository is soley intended as a Biotech Stock Prediction Project and contains the following items: 
+This repository is soley dedicated to a Biotech Stock Prediction Project and contains the following items: 
 10.6_ Capstone 1 Project Report.pdf, 10.6_ machine learning capstone 1 in depth analysis.pdf,	4.3_ Capstone 1 Project Proposal.pdf,	
 5.4_ data wrangling.pdf	Add files via upload, 8.5_ Capstone 1 Statistical Data Analysis.pdf, 8.5_ milestone report capstone 1.pdf,	
 Capstone 1 Biotechnology Stock Prediction SLIDES.pdf,	biotech_portfolio_optim_stock_selection.ipynb, biotechnology_exploration.ipynb	
