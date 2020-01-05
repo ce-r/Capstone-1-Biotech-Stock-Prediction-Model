@@ -6,6 +6,8 @@ This repository is soley dedicated to a Biotech Stock Prediction Project and con
 Capstone 1 Biotechnology Stock Prediction SLIDES.pdf,	biotech_portfolio_optim_stock_selection.ipynb, biotechnology_exploration.ipynb	
 capstone_1_biotech_models.ipynb
 
+For coding directions, it is import to follow the ipynb's in chronological order: Part1 - Part3.
+
 The pdf files illustrate the details of certain stages in the project. Capstone 1 Project Proposal.pdf is the final and 
 definitive report. It captures the entire process from data wrangling to statistical analysis and machine learning model exploration. 
 The ipynb files are various python implementations ranging from data retrieval to statistical analysis and model exploration.
